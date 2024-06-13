@@ -1,0 +1,23 @@
+body {
+    background-color: #82AC9F;
+    text-align: center;
+}
+
+.main .h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    color: #94778B;
+}
+
+.main .ul .a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: #82D4BB;
+    height: 10px;
+}
+
+p {
+    color: #94778B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
